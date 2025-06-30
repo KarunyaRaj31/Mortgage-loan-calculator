@@ -14,6 +14,8 @@ A responsive and user-friendly mortgage loan calculator that helps users estimat
 - Fully responsive and clean UI
 
 ---
+-Link to directly access this project
+https://karunyaraj31.github.io/Mortgage-loan-calculator/
 
 ##  Tech Stack
 
